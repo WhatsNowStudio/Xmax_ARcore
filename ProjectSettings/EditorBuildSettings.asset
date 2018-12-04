@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Project/Mainscene.unity
     guid: 74c4eab00f8e210469cca66baf9c07ce
+  - enabled: 0
+    path: Assets/Project/XmasTree.unity
+    guid: 79810cf27b94b3645b35dc8e6f5584c9
   m_configObjects: {}
