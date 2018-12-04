@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 28a66e6cda1b81e459f03a3bc6ea70dc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box04
+    100002: candy_stick
+    100004: ChamferBox02
+    100006: ChamferBox03
+    100008: Circle01
+    100010: Cylinder01
+    100012: //RootNode
+    100014: gift
+    100016: gift1
+    100018: gift2
+    100020: gift_bottom1
+    100022: gift_bottom2
+    100024: gift_cap1
+    100026: gift_cap2
+    100028: Group01
+    100030: Line002
+    100032: Object
+    100034: Plane05
+    100036: present
+    100038: Rectangle01
+    100040: Ring
+    100042: socks
+    400000: Box04
+    400002: candy_stick
+    400004: ChamferBox02
+    400006: ChamferBox03
+    400008: Circle01
+    400010: Cylinder01
+    400012: //RootNode
+    400014: gift
+    400016: gift1
+    400018: gift2
+    400020: gift_bottom1
+    400022: gift_bottom2
+    400024: gift_cap1
+    400026: gift_cap2
+    400028: Group01
+    400030: Line002
+    400032: Object
+    400034: Plane05
+    400036: present
+    400038: Rectangle01
+    400040: Ring
+    400042: socks
+    2100000: 01 - Default  ( Standard )
+    2100002: 02 - Default  ( Standard )
+    2100004: 06 - Default  ( Standard )
+    2100006: 07 - Default  ( Standard )
+    2100008: No Name
+    2100010: gift_material
+    2100012: "\xE2\xE5\xF0\xE5\xE2\xEE\xF7\xEA\xE8 \xEC\xEC CBY"
+    2100014: "vray \xCB\xC8\xCD\xCA\xD0\xD3\xD1\xD2\xCE F"
+    2100016: 'Material #49'
+    2100018: 'Material #50'
+    2100020: 'Material #54'
+    2300000: Box04
+    2300002: candy_stick
+    2300004: ChamferBox02
+    2300006: ChamferBox03
+    2300008: Circle01
+    2300010: Cylinder01
+    2300012: gift_bottom1
+    2300014: gift_bottom2
+    2300016: gift_cap1
+    2300018: gift_cap2
+    2300020: Line002
+    2300022: Object
+    2300024: present
+    2300026: Rectangle01
+    2300028: Ring
+    2300030: socks
+    3300000: Box04
+    3300002: candy_stick
+    3300004: ChamferBox02
+    3300006: ChamferBox03
+    3300008: Circle01
+    3300010: Cylinder01
+    3300012: gift_bottom1
+    3300014: gift_bottom2
+    3300016: gift_cap1
+    3300018: gift_cap2
+    3300020: Line002
+    3300022: Object
+    3300024: present
+    3300026: Rectangle01
+    3300028: Ring
+    3300030: socks
+    4300000: ChamferBox02
+    4300002: ChamferBox03
+    4300004: Circle01
+    4300006: Rectangle01
+    4300008: Box04
+    4300010: Object
+    4300012: gift_cap1
+    4300014: gift_bottom1
+    4300016: gift_cap2
+    4300018: gift_bottom2
+    4300020: Ring
+    4300022: Line002
+    4300024: Cylinder01
+    4300026: candy_stick
+    4300028: socks
+    4300030: present
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
