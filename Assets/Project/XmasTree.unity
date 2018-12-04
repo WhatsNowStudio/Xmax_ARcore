@@ -326,7 +326,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1165198112}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
   m_Name: 
@@ -420,11 +420,6 @@ Prefab:
     - target: {fileID: 4520658801791364, guid: a51faff6fb600ab43999326bbba550cd, type: 2}
       propertyPath: m_RootOrder
       value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 114596203008629484, guid: a51faff6fb600ab43999326bbba550cd,
-        type: 2}
-      propertyPath: fsm.states.Array.data[0].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
-      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 224581827529909308, guid: a51faff6fb600ab43999326bbba550cd,
         type: 2}
