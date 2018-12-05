@@ -154,7 +154,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.wns.ChristmastreeARplus
   buildNumber: {}
-  AndroidBundleVersionCode: 2
+  AndroidBundleVersionCode: 3
   AndroidMinSdkVersion: 24
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1

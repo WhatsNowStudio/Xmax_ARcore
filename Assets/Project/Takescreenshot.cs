@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Takescreenshot : MonoBehaviour {
-
+public bool isdone;
 	// Use this for initialization
 	void screenshotandsave () {
 		StartCoroutine( TakeScreenshotAndSave() );
@@ -12,7 +12,7 @@ public class Takescreenshot : MonoBehaviour {
 	private IEnumerator TakeScreenshotAndSave()
 {
 	yield return new WaitForEndOfFrame();
-
+isdone = false;
 	Texture2D ss = new Texture2D( Screen.width, Screen.height, TextureFormat.RGB24, false );
 	ss.ReadPixels( new Rect( 0, 0, Screen.width, Screen.height ), 0, 0 );
 	ss.Apply();
@@ -22,5 +22,6 @@ public class Takescreenshot : MonoBehaviour {
 	
 	// To avoid memory leaks
 	Destroy( ss );
+	isdone = true ;
 }
 }
